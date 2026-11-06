@@ -1,0 +1,6 @@
+dataset,rows_loaded,rows_expected,percent,status
+Survey_2026,950,1000,95.0,WARNING
+Survey_2027,920,1000,92.0,WARNING
+Survey_2028,1050,1000,105.0,OVER LIMIT
+Survey_2029,850,1000,85.0,OK
+Survey_2030,980,1000,98.0,WARNING
